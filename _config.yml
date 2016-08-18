@@ -12,5 +12,9 @@ color:
     - '#F4F482'
 layout_spectrum: 0.18787590460851789
 name: shacklife
+navigation:
+  - name: The blog
+    url: 'http://www.getbusi.com/blog'
+    type: external
 title: The Mystery of Fire.
 description: How primitive man invented the computer.
